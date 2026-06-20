@@ -25,5 +25,5 @@ CLAUDE.md                 # Agent instructions (RTCO format)
 
 | # | Spec | Status |
 |---|------|--------|
-| 001 | Profile README | 🔄 In progress |
+| 001 | Profile README | ✅ Done |
 | 002 | Pinned + organization | 🔄 In progress (manual pin pending) |
